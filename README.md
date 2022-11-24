@@ -2,8 +2,8 @@
 Solutions that I thought were decent enough to post
 
 
-## TEMPLATES
-### C++
+## Templates
+### C++ (main)
 ```C
 #include <bits/stdc++.h>
 typedef long long ll;
