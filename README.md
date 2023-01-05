@@ -12,8 +12,9 @@ int main()
 {
     //freopen("input.txt", "r", stdin);
     //freopen("output.txt", "w", stdout);
-    cin.sync_with_stdio(0); cin.tie(0);
-    //cout << fixed << setprecision(2);
+    cin.sync_with_stdio(0);
+    cin.tie(0);
+    cout << fixed << setprecision(20);
     
     
     return 0;
