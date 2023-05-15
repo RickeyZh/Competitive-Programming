@@ -1,5 +1,5 @@
 # Competitive-Programming
-Solutions that I thought were decent enough to post
+Collections of solutions I've created while training CP
 
 
 ## Templates
